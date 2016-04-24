@@ -1,13 +1,9 @@
 {
-  "name": "bird-notify",
-  "version": "0.0.1",
-  "description": "",
+  "name": "twit-bird",
+  "version": "0.0.2",
+  "description": "A bird that flashes",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "sprusr",
   "dependencies": {
     "serialport": "^2.1.0",
     "twit": "^2.2.3"
